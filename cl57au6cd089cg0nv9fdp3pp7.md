@@ -1,6 +1,6 @@
 ## Crack the hash Level 1 Write-up (Free Room on TryHackMe) How to Use Hashcat on Linux
 
-### Introduction
+%[https://youtu.be/NTRO6ZZGkWI]
 
 **Crack the hash** is a free room on TryHackMe, found [here](https://tryhackme.com/room/crackthehash). It is rated Easy and contains a series of hashes to be cracked. At first glance I see some hash formats that I instantly recognize, like md5 at level 1 task 1, and others that are much longer or have formats that I haven’t worked with before.
 
