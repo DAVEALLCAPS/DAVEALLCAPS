@@ -1,15 +1,14 @@
 ## Crack the hash Level 2 Write-up (Free Room on TryHackMe) Cracking Salted Hashes
 
-%[https://youtu.be/NTRO6ZZGkWI]
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1656971892183/4wkQJswZh.png)
-
-
 If you haven’t taken a look at [my level 1 write-up](https://medium.com/@daveallcaps/crack-the-hash-level-1-write-up-free-room-on-tryhackme-how-to-use-hashcat-on-linux-5d807e901ce5), I would recommend going back and reading it over because it explains our processes and the tools we are using. Level 2 of the **Crack the hash** room contains more hashes to crack, this time with salts and different hashing algorithms.  
 If you don’t know what a salt is yet, don’t worry, it’s just an extra bit of data that is added to what we are hashing to make it harder to crack.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1656971892183/4wkQJswZh.png)
+
 “In cryptography, a **salt** is random data that is used as an additional input to a one-way function that hashes data, a password or passphrase.”  
  — from Wikipedia page, [Salt (cryptography)](https://en.wikipedia.org/wiki/Salt_%28cryptography%29).
+
+%[https://youtu.be/NTRO6ZZGkWI]
 
 Let’s take a look at the tasks for level 2…
 
