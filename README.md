@@ -9,4 +9,9 @@
 <a href="https://www.instagram.com/daveallcaps/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCqoGB5jXiSt22sqjCqSKH0Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
+## Recent Posts
+* [What is The Cyber Kill Chain?](https://daveallcaps.hashnode.dev/what-is-the-cyber-kill-chain)
+* [Crack the hash Level 1 Write-up (Free Room on TryHackMe) How to Use Hashcat on Linux](https://daveallcaps.hashnode.dev/crack-the-hash-level-1-write-up-free-room-on-tryhackme-how-to-use-hashcat-on-linux-5d807e901ce5)
+* [Crack the hash Level 2 Write-up (Free Room on TryHackMe) Cracking Salted Hashes](https://daveallcaps.hashnode.dev/crack-the-hash-level-2-write-up-8abba265466c)
+
 </div>
