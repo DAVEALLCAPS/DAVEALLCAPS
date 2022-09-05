@@ -14,4 +14,5 @@
 * [Crack the hash Level 1 Write-up (Free Room on TryHackMe) How to Use Hashcat on Linux](https://daveallcaps.hashnode.dev/crack-the-hash-level-1-write-up-free-room-on-tryhackme-how-to-use-hashcat-on-linux-5d807e901ce5)
 * [Crack the hash Level 2 Write-up (Free Room on TryHackMe) Cracking Salted Hashes](https://daveallcaps.hashnode.dev/crack-the-hash-level-2-write-up-8abba265466c)
 * [How to Install Jupyter and Create Your First Notebook](https://daveallcaps.hashnode.dev/how-to-install-jupyter-and-create-your-first-notebook)
+* [Scraping the Web with BeautifulSoup4 and Requests](https://daveallcaps.hashnode.dev/scraping-the-web-with-beautifulsoup4-and-requests)
 </div>
