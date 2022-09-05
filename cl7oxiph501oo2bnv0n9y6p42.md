@@ -72,3 +72,7 @@ print('There is', len(country_names), 'country names in our list.')
 We have completed the scraper, let's save and run it in all of it's glory.
 
 ![Screenshot 2022-09-05 093815.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662392300088/sJB7kwoSK.png align="left")
+
+The source code can be found [on my GitHub](https://github.com/DAVEALLCAPS/PYTHON-SCRIPTS/tree/master/basic_scraper).
+
+Until next time, DAVE.
