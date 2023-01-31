@@ -16,7 +16,7 @@
 |[3. Coin Flip](https://securingweb3.xyz/ethernaut-3/)|
 |[4. Telephone](https://securingweb3.xyz/ethernaut-4/)|
 |[5. Token](https://securingweb3.xyz/ethernaut-5/)|
-|[6. Delegation](https://securingweb3.xyz/ethernaut-6/|
+|[6. Delegation](https://securingweb3.xyz/ethernaut-6/)|
   
 ##### (Looking for Web2 blogs/CTF write-ups or Python stuff? They still live on [Hashnode](https://daveallcaps.hashnode.dev/), though I've moved my focus to Web3)
   
