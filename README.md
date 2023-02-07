@@ -13,10 +13,11 @@
 |[0. Hello Ethernaut](https://securingweb3.xyz/ethernaut-0/)|[Setup](https://securingweb3.xyz/damn-vulnerable-defi-setup/)|[1+Setup](https://securingweb3.xyz/evm-puzzles-1/)
 |[1. Fallback](https://securingweb3.xyz/ethernaut-1/)|[1. Unstoppable](https://securingweb3.xyz/damn-vulnerable-defi-1/)|[2](https://securingweb3.xyz/evm-puzzles-2/)|
 |[2. Fallout](https://securingweb3.xyz/ethernaut-2/)|[2. Naive receiver](https://securingweb3.xyz/damn-vulnerable-defi-2/)|
-|[3. Coin Flip](https://securingweb3.xyz/ethernaut-3/)|
+|[3. Coin Flip](https://securingweb3.xyz/ethernaut-3/)|[3. Truster](https://securingweb3.xyz/damn-vulnerable-defi-3/)|
 |[4. Telephone](https://securingweb3.xyz/ethernaut-4/)|
 |[5. Token](https://securingweb3.xyz/ethernaut-5/)|
 |[6. Delegation](https://securingweb3.xyz/ethernaut-6/)|
+|[7. Force](https://securingweb3.xyz/ethernaut-7)|
   
 ##### (Looking for Web2 blogs/CTF write-ups or Python stuff? They still live on [Hashnode](https://daveallcaps.hashnode.dev/), though I've moved my focus to Web3)
   
